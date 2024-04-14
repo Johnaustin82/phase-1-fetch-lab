@@ -81,7 +81,7 @@ some exploration of the returned data to find the thing they're looking for.
 This is an opportunity for you to practice.
 
 ## Deliverables
-
+ 
 In `index.js`, there is an empty function, `fetchBooks()`, that is called when
 `index.html` is loaded. To pass this lab, this function should include a fetch
 request to the Game of Thrones API (https://anapioficeandfire.com/api/books).
